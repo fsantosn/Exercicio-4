@@ -1,0 +1,5 @@
+package felipe.ufpb.br;
+
+public enum DiaDaSemana {
+    SEGUNDA, TERCA, QUARTA, QUINTA, SEXTA , SABADO ,DOMINGO
+}
